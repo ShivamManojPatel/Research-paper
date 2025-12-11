@@ -29,6 +29,6 @@ This paper was completed as part of academic work in Computer Science, demonstra
 Author
 -------------------------------------
 **Shivam Patel** <br>
-Pace University | Seidenberg School of Computer Science and Information Systems
+Pace University | Seidenberg School of Computer Science and Information Systems <br>
 LinkedIn: https://www.linkedin.com/in/shivampatel19/
 
